@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appPackageNameLectorQR">com.google.zxing.client.android</string>
+    <string name="errorDatosNoExisteRegisto">No Existe Regsitro</string>
+    <string name="errorDatosNoPudoBorrarResitro">Error al Borrar Registro</string>
+    <string name="errorDatosNoPudoModificarResitro">Error al Modificar Registro</string>
+    <string name="agregar">Agregar</string>
+    <string name="consultar">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+</resources>

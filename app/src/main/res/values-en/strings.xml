@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Tutis</string>
+    <string name="action_settings">Config</string>
+
+    <string name="confirmar">Confirmar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancel</string>
+    <string name="mensajeEnvio">Send E-Mail</string>
+    <string name="enviando">Sending...</string>
+
+    <string name="bostero">Heart</string>
+    <string name="hola">Hi Tutis!!!</string>
+    <string name="magia">Magic!</string>
+    <string name="numeroTelefonoTutis">+54 11 6558-2002</string>
+    <string name="mensajeSMS">Prueba de Envio</string>
+    <string name="mailEjemplo">tikras2005@gmail.com</string>
+    <string name="boquita">Boca</string>
+    <string name="mensajeTutis">I Love So Much!!!</string>
+    <string name="error_email_app_install">Please Install An Email Client</string>
+    <string name="appPackageNameLectorQR">com.google.zxing.client.android</string>
+    <string name="errorDatosNoExisteRegisto">Record Not Found</string>
+    <string name="errorDatosNoPudoBorrarResitro">Delete Record Error</string>
+    <string name="errorDatosNoPudoModificarResitro">Edit Record Error</string>
+    <string name="agregar">Add</string>
+    <string name="consultar">Show</string>
+    <string name="modificar">Edit</string>
+    <string name="borrar">Delete</string>
+</resources>
