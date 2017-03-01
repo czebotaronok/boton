@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_configuracion"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/androide"
+    tools:context="com.example.laguilera.cualquiera.ConfiguracionActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/chkInternet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Internet"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+        <CheckBox
+            android:id="@+id/chkEscritura"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="Escritura"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Texto"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    </LinearLayout>
+
+</ScrollView>
