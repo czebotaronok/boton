@@ -1,7 +1,13 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl alt end" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -16,5 +22,12 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="com.dubreuia.core.SaveActionShortcutManager" />
+  <action id="osmedile.intellij.stringmanip.NonAsciiToUnicodeEscapedAction">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.UnicodeEscapedToStringAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
 </keymap>
