@@ -1,5 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="NextOccurence">
+  <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl alt end" />
   </action>
   <action id="SwitchApply">
